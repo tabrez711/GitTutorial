@@ -1,0 +1,63 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "WB1iRDJJFC2cWtpIAXMFs",
+      "type": "text",
+      "x": 374.66668701171875,
+      "y": 770.1666870117188,
+      "width": 611,
+      "height": 253,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 1733633303,
+      "version": 365,
+      "versionNonce": 389254615,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "text": "skipping the staging area:-\nnow there can be scenarios where we directly want to commit.\ni.e. we don't want to enter the staging area.\ncommand to perform that task:-\n\ngit commit -a -m \"direct commit\"\n\nNOTE:-this command will only direct commit the tracked files.\nIf there is any untracked file, then it will not commit those\nfiles.",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 246
+    },
+    {
+      "id": "t6yZH7bGY0UhtuFGrgQjg",
+      "type": "rectangle",
+      "x": 366,
+      "y": 887.1666870117188,
+      "width": 342,
+      "height": 46,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "#fd7e14",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 1375084313,
+      "version": 73,
+      "versionNonce": 768583321,
+      "isDeleted": false,
+      "boundElementIds": null
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  }
+}
